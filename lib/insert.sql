@@ -1,14 +1,8 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Mister Chocolate", 3, "male", "brown", "sweet", "true");
-
-
-
-
-
-Mr. Chocolate
-Rowdy
-Tabitha
-Sergeant Brown
-Melissa
-Grinch
-Wendy
-unnamed (the bear that killed Tim didn't have a name; refer back to how to create a record that doesn't have one value)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Rowdy", 2, "male", "black", "rowdy", "true");
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Tabitha", 4, "female", "brown", "friendly", "true");
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Sergeant Brown", 3, "male", "brown", "menacing", "true");
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Melissa", 5, "female", "rust", "adventurous", "true");
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch", 1, "female", "brown", "protective", "true");
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 2, "female", "brown", "languid", "true");
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("NULL", 2, "male", "black", "ornery", "false");
